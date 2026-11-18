@@ -1,0 +1,6 @@
+{
+  "name": "Coco's Kitchen",
+  "description": "A vibrant Gen Z-style interactive cooking game starring Chef Coco. Pick ingredients, cook four signature recipes step-by-step, and earn star ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
